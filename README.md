@@ -1,2 +1,2 @@
 # Dev
-Dev repo fot git commands demonstration
+Dev repo for git commands demonstration
